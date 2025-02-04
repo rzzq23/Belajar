@@ -9,3 +9,5 @@ gunakan Compare and pull untuk melakukannya
 
 Jika ingin menggabungkan 2 cabang maka harus dilakukan satu per satu
 sebagai contoh commit dan marge fitur 1 kemudian fitur 2
+Jika terdapat masalah maka kita yang harus menyelesaikan masalah
+dengan membandingkan 2 fitur tadi, kemudian kita edit dan selesaikan problem
