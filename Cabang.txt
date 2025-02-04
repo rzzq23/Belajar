@@ -3,3 +3,5 @@ Cara Pembuatan
 Buat cabang baru pada bagian kiri branch
 ketikkan nama cabang baru
 create
+juka ingin menggabungkan
+gunakan compound and pull untuk melakukannya
