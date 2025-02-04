@@ -1,0 +1,5 @@
+Cara Pembuatan
+
+Buat cabang baru pada bagian kiri branch
+ketikkan nama cabang baru
+create
