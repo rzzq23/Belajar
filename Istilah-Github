@@ -1,1 +1,12 @@
 Istilah istilah yang ada di Github
+10 istilah
+Repository (Repo) – Tempat penyimpanan kode proyek dan riwayat perubahan.
+Commit – Menyimpan perubahan ke dalam repositori dengan pesan deskriptif.
+Branch – Cabang independen dari kode utama untuk mengembangkan fitur atau perbaikan.
+Merge – Menggabungkan perubahan dari satu branch ke branch lain (biasanya ke main).
+Pull Request (PR) – Permintaan untuk menggabungkan perubahan dari branch lain (di GitHub).
+Clone – Salinan repositori dari GitHub ke komputer lokal.
+Fork – Menyalin repositori ke akun pribadi untuk dikembangkan lebih lanjut.
+Push – Mengirim perubahan dari komputer lokal ke repositori GitHub.
+Pull – Mengambil dan menggabungkan perubahan terbaru dari repositori GitHub ke lokal.
+Fetch – Mengambil pembaruan terbaru dari repositori GitHub tanpa langsung menggabungkan.
