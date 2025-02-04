@@ -5,3 +5,7 @@ ketikkan nama cabang baru
 create
 juka ingin menggabungkan
 gunakan compound and pull untuk melakukannya
+
+
+Jika ingin menggabungkan 2 cabang maka harus dilakukan satu per satu
+sebagai contoh commit dan marge fitur 1 kemudian fitur 2
