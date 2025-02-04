@@ -1,5 +1,5 @@
 Istilah istilah yang ada di Github
-10 istilah
+
 Repository (Repo) – Tempat penyimpanan kode proyek dan riwayat perubahan.
 Commit – Menyimpan perubahan ke dalam repositori dengan pesan deskriptif.
 Branch – Cabang independen dari kode utama untuk mengembangkan fitur atau perbaikan.
@@ -10,3 +10,8 @@ Fork – Menyalin repositori ke akun pribadi untuk dikembangkan lebih lanjut.
 Push – Mengirim perubahan dari komputer lokal ke repositori GitHub.
 Pull – Mengambil dan menggabungkan perubahan terbaru dari repositori GitHub ke lokal.
 Fetch – Mengambil pembaruan terbaru dari repositori GitHub tanpa langsung menggabungkan.
+Rebase – Menyesuaikan branch dengan perubahan terbaru dari branch lain tanpa membuat merge commit.
+Stash – Menyimpan sementara perubahan yang belum siap untuk di-commit.
+Remote – Repositori yang disimpan di server (misalnya di GitHub).
+Origin – Nama default untuk remote repositori saat pertama kali di-clone.
+HEAD – Referensi ke commit terbaru di branch yang sedang aktif.
