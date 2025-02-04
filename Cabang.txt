@@ -4,7 +4,7 @@ Buat cabang baru pada bagian kiri branch
 ketikkan nama cabang baru
 create
 juka ingin menggabungkan
-gunakan compound and pull untuk melakukannya
+gunakan Compare and pull untuk melakukannya
 
 
 Jika ingin menggabungkan 2 cabang maka harus dilakukan satu per satu
